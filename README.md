@@ -1,8 +1,8 @@
 # weixinsign
 weixinsin
-# 在此处输入标题
+#获取签名的刚刚
 
-
+首先要在配置文件里面配置AppId和secret
 把上面的包引入然后：
 //	    //1、获取AccessToken  
 		AccessToken accessToken = new AccessToken();
